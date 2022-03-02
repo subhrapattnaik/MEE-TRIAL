@@ -22,7 +22,7 @@ SA3-MAKECODE
 https://minecraft.makecode.com/31007-43173-07533-89821
 
 
-shares url 
+student shares url 
 
 teacher:
 Step 1: Copy the URL shared by the student.
