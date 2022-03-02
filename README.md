@@ -5,7 +5,7 @@ TA1-TYNKER-SKIN Editor
 Convert png to mcpak
 https://cdsmythe.com/minecraftskins2/index.html
 
-SA1-TYNKET-SKIN Editor
+SA1-TYNKEr-SKIN Editor
 Convert png to mcpak
 https://cdsmythe.com/minecraftskins2/index.html
 
