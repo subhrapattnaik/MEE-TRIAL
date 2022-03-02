@@ -22,7 +22,13 @@ SA3-MAKECODE
 https://minecraft.makecode.com/31007-43173-07533-89821
 
 
-shares url and teacher imports in her mee --press c for code builder --On the right side of my projects you see the import option,
+shares url 
+
+teacher:
+Step 1: Copy the URL shared by the student.
+Step 2: Click on C and open the code builder.
+Step 3: Click on the Microsoft MakeCode Editor.
+Step 4: On the right side of my projects you see the import option,
 
 -----------------------
 With coding, we can make so many magical changes in the Minecraft world.
