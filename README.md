@@ -22,12 +22,12 @@ SA3-MAKECODE
 https://minecraft.makecode.com/31007-43173-07533-89821
 
 
-student shares url 
+student publishes and  shares url 
 
 teacher:
 Step 1: Copy the URL shared by the student.
 Step 2: Click on C and open the code builder.
-Step 3: Click on the Microsoft MakeCode Editor.
+Step 3: Click on the Microsoft MakeCode Editor.(go to home-in left side)
 Step 4: On the right side of my projects you see the import option,
 
 -----------------------
