@@ -1,9 +1,14 @@
 # MEE-TRIAL
 
+With coding, we can make so many magical changes in the Minecraft world.
+- We created our own custom skin using pallets and tools.
+- We learned to provide instructions to the computer in the language the computer understands.
+- We learned how to make the player glide through the air and give more power using an enchanted book.
+- We learned how to create a simple customized (custom-made) command and how to make the player teleport
+from one World to another
 
 
-
-
+---------------------------------------------------------------------------------------------------
 We all know that Minecraft is a very popular game and kids simply love Minecraft because they can truly build anything they imagine. 
 
 The open-ended feature of the game has created a culture of makers who dream up to make new things and then learn the perseverance to bring them to life. 
