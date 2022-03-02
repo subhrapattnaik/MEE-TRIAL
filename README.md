@@ -1,5 +1,30 @@
 # MEE-TRIAL
 
+
+TA1-TYNKER-SKIN Editor
+Convert png to mcpak
+https://cdsmythe.com/minecraftskins2/index.html
+
+SA1-TYNKET-SKIN Editor
+Convert png to mcpak
+https://cdsmythe.com/minecraftskins2/index.html
+
+
+TA2-Elytra glide Activity(No code here)
+
+TA3- Weather Commands(Predefined commands)
+
+
+SA2-MAKECODE
+https://minecraft.makecode.com/31007-43173-07533-89821
+
+SA3-MAKECODE
+https://minecraft.makecode.com/31007-43173-07533-89821
+
+
+shares url and teacher imports
+
+-----------------------
 With coding, we can make so many magical changes in the Minecraft world.
 - We created our own custom skin using pallets and tools.
 - We learned to provide instructions to the computer in the language the computer understands.
