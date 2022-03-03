@@ -1,6 +1,14 @@
 # MEE-TRIAL
 n Minecraft, we can build a whole new world with our customized structures, such as houses, castles, huts, towers, and creatures. Also, we can discover the endless world of Minecraft.
 
+Drawing Tools: At the top, you have the five drawing tools. From left to right, they are:
+(1) Pencil: Paint one block at a time in a solid color.
+(2) Texture Brush: Paint one block at a time while slightly changing the color to give
+you the “Minecraft” look (gradient effect).
+(3) Eraser: Erase what you’ve made.
+(4) Paint Bucket: Fill in solid areas with a single color.
+(5) Eyedropper: Select a color that’s already on the skin, which you can then use to
+paint.
 
 TA1-TYNKER-SKIN Editor
 Convert png to mcpak
