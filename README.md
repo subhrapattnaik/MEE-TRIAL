@@ -1,6 +1,36 @@
 # MEE-TRIAL
 n Minecraft, we can build a whole new world with our customized structures, such as houses, castles, huts, towers, and creatures. Also, we can discover the endless world of Minecraft.
 
+The game is simple in design, but the open world offers endless possibilities. It is a unique way to engage kids in STEM learning too.
+
+Players have access to block based worlds where they must survive, build, and craft to make their way in a completely randomly generated world. 
+
+If survival mode isn’t for you, then you may enjoy creative mode. There, players can choose to spawn into the world with a near infinite amount of resources to build whatever they want. 
+
+Minecraft truly enables players to open up their imaginations and create extraordinary things.
+As such, the game can be easily adapted for educational purposes and can provide many benefits to students of all ages! 
+
+
+Encourage Creativity
+The creative mode of Minecraft is just like building with LEGO Bricks, Lincoln Logs and Tinker Toys.
+
+It is essentially a bucket of virtual pieces to engineer whatever you want. However, Minecraft provides a near-infinite amount of every one of its blocks and objects.
+
+
+Players can really build whatever they want while letting their imagination go wild. They aren’t limited by the number of pieces or by physical space for building. 
+
+Virtual Learning Opportunities
+Many students are visual learners, but it can be hard to procure visual aids for many subjects. Sometimes, flat 2-D pictures don’t cut it either.
+
+However, with Minecraft, parents and teachers can create 3-D models of nearly anything for students to explore.
+
+Geography, biology, science, and even history can all be explored through Minecraft. 
+
+For example, my son built a castle while looking at pictures of castles in Scotland. He’s also spent time looking up the flags of other countries and creating them in game as well.
+
+
+
+----------------------------------------------------------
 Drawing Tools: At the top, you have the five drawing tools. From left to right, they are:
 (1) Pencil: Paint one block at a time in a solid color.
 (2) Texture Brush: Paint one block at a time while slightly changing the color to give
