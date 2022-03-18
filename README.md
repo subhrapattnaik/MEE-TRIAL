@@ -27,8 +27,61 @@ However, with Minecraft, parents and teachers can create 3-D models of nearly an
 Geography, biology, science, and even history can all be explored through Minecraft. 
 
 For example, my son built a castle while looking at pictures of castles in Scotland. He’s also spent time looking up the flags of other countries and creating them in game as well.
+------------------
+Rocks and Minerals
+Whether it’s through regular play or with a specific educational purpose, kids can learn about minerals from Minecraft.
+
+There are lots of real world rocks and minerals represented in the game. Iron, diamond, stone, emerald, quartz, gold, obsidian, and cobblestone, just to name a few.
+
+Players mine and gather these items for crafting and building. Though in creative mode, they can easily access items without gathering them from the world.
+
+This has led to my kids recognizing these items outside of the game and researching them too.
+
+-------------
+Weather Cycle and Biomes
+Minecraft has a very detailed weather cycle which can be useful for educational purposes.
+
+Depending on the biome you are in in-game, the weather will act accordingly. For example, while in a rainforest you are likely to experience heavy rain.
 
 
+Use the Minecraft weather cycle to teach younger kids about weather and even natural disasters. The 3D nature of the game allows students to experience the weather in a safe environment.
+
+You can also task students with creating weather resistant builds, or acting out what they should do in the event of a weather emergency.
+
+
+---
+Resource Management and Organization
+In Minecraft’s survival mode, players are tasked with gathering resources in a plethora of ways. Agriculture, mining, hunting, fishing, and even trading are all ways to get the supplies needed to thrive in their world. 
+
+It can be a great tool to teach students about resource management, both in-game and in the real world. You can also set up plenty of activities for students to do, such as creating a flower garden, the best farm or the most efficient mine.
+
+
+
+Not only will students learn to manage their stuff in-game, but they can learn about such concepts as recycling, reusing, reducing waste, trade, and efficient agriculture from the game.
+
+Minecraft can also be a great tool to teach kids about object organization. 
+
+For example, younger kids can take colored blocks and sort them into chests by color. Or build walls following a pattern. They can also learn about where items go, such as food in the kitchen.
+
+For older kids, Minecraft can teach them to organize their resources for better access later. You can even turn organizing resources into a game by asking students to create the most efficient organizational systems.
+---------------
+Socializing and Social Skills
+Minecraft can be played solo, with another player at home, or with other players online. It can be a great multiplayer gaming experience, and this can be easily adapted into the educational environment.
+----------------
+Minecraft can be used to teach students about economics, trade, and good samaritanism. 
+
+Minecraft also lends itself greatly to role play scenarios, making it a great way for kids to act out a virtual play. (They can even build the stage or virtual movie set.) 
+
+Younger students can act out certain social situations and learn about manners and other social situations. For example, you can create a Minecraft restaurant where players must order food, use their manners, and be patient all at once.
+
+----------
+Minecraft can also be used to teach students about conflict resolution in a variety of ways. Perhaps students must compromise with one another about who gets to mine in a cave.
+
+Additionally, Minecraft can be used to teach responsible online conduct. Their world can be used to create a safe-space where players learn about cyber-bullying and how to behave online.
+
+In fact, the game’s final boss promotes teamwork and strategy to defeat it. The multiplayer aspect of Minecraft can have many direct and indirect positive effects for kids.
+
+Minecraft is an international phenomena, but it can be more than just a fun video game. There are many ways for kids to learn while playing Minecraft!
 
 ----------------------------------------------------------
 Drawing Tools: At the top, you have the five drawing tools. From left to right, they are:
