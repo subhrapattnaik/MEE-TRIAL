@@ -1,5 +1,8 @@
 # MEE-TRIAL
-n Minecraft, we can build a whole new world with our customized structures, such as houses, castles, huts, towers, and creatures. Also, we can discover the endless world of Minecraft.
+
+https://www.idtech.com/blog/educational-benefits-minecraft
+
+In Minecraft, we can build a whole new world with our customized structures, such as houses, castles, huts, towers, and creatures. Also, we can discover the endless world of Minecraft.
 
 The game is simple in design, but the open world offers endless possibilities. It is a unique way to engage kids in STEM learning too.
 
